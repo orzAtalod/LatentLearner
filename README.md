@@ -24,7 +24,7 @@ We plan to build a set of exploratory models to evaluate different learning hypo
 
 Additionally, we plan to prepare interpretation cards throughout the modeling process, so that each model is evaluated not only by predictive accuracy but also by the plausibility and robustness of its cognitive interpretation. We will document each experiment with its motivating hypothesis, results, and interpretation.
 
-## Timeline
+## Official Timeline
 
 | Date | Phase |
 | --- | --- |
