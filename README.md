@@ -7,8 +7,8 @@
 | Member | Primary focus |
 |---|---|
 | Wanyang Yu | Engineering / infrastructure, coordination |
-| Chuqiao Song | Neural / RNN modeling, mechanistic interpretation |
-| Jinghang Lin | Bayesian / symbolic cognitive modeling, model comparison, theory |
+| Chuqiao Song | Neural / RNN modeling, mechanistic interpretation, theory |
+| Jinghang Lin | Bayesian / symbolic cognitive modeling, model comparison, Cognitive Science background |
 
 
 ## Modeling philosophy — a ladder of models
