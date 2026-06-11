@@ -36,16 +36,3 @@ Each rung produces a falsifiable claim for the interpretation card; the adversar
 | Jun 29 | Phase 1 — task & data release (Generative track) |
 | Jul 27 | Phase 2 — Adversarial track |
 | Sep 4 | Presentation & awards |
-
-## Getting started
-
-```bash
-conda env create -f environment.yml
-conda activate latent-learner
-# run a baseline against the eval harness
-python -m latent_learner.eval.run --model random_baseline
-```
-
-## License
-
-TBD.
