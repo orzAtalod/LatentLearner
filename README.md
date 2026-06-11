@@ -5,11 +5,10 @@
 ## Team
 
 | Member | Primary focus |
-|---|---|
+| --- | --- |
 | Wanyang Yu | Engineering / infrastructure, coordination |
 | Chuqiao Song | Neural / RNN modeling, mechanistic interpretation, theory |
 | Jinghang Lin | Bayesian / symbolic cognitive modeling, model comparison, Cognitive Science background |
-
 
 ## Modeling philosophy — a ladder of models
 
@@ -51,7 +50,7 @@ Evaluation is one-step-ahead: `NLL = -sum_t log P_t[a_t]` over held-out trials.
 
 ## Repository structure
 
-```
+```text
 latent-learner/
 ├── README.md
 ├── docs/
@@ -83,12 +82,12 @@ latent-learner/
 ## Timeline
 
 | Date | Phase |
-|---|---|
+| --- | --- |
 | Jun 15 | Enrollment deadline |
 | Jun 22 | Acceptance · Discord · warm-up |
 | Jun 29 | Phase 1 — task & data release (Generative track) |
 | Jul 27 | Phase 2 — Adversarial track |
-| Sep 4  | Presentation & awards |
+| Sep 4 | Presentation & awards |
 
 ## Getting started
 
@@ -102,4 +101,3 @@ python -m latent_learner.eval.run --model random_baseline
 ## License
 
 TBD.
-
