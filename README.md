@@ -22,14 +22,7 @@ We plan to build a set of exploratory models to evaluate different learning hypo
 
 4. **Model evaluation and refinement**: We will analyze failure cases, deviations from human behavior, and generalization to held-out tasks. Based on these analyses, we may explore variants of the RL, Bayesian, or RNN models, rather than increasing model complexity by default.
 
-Additionally, we plan to prepare interpretation cards throughout the modeling process, so that each model is evaluated not only by predictive accuracy but also by the plausibility and robustness of its cognitive interpretation.
-
-## Workflow conventions
-
-- **Literature:** every paper we read and discussed gets a one-page note in `docs/literature/notes/`.
-- **Experiments:** each experiment is a folder under `experiments/` with a config. Write the *question/hypothesis first* at the top of its report in `reports/`, the result after, and the discussion below.
-- **Code:** new models subclass `CognitiveModel`; nothing bypasses the eval harness.
-- **Meetings:** dated notes in `docs/meetings/`, each ending with explicit decisions and owners.
+Additionally, we plan to prepare interpretation cards throughout the modeling process, so that each model is evaluated not only by predictive accuracy but also by the plausibility and robustness of its cognitive interpretation. We will document each experiment with its motivating hypothesis, results, and interpretation.
 
 ## Timeline
 
